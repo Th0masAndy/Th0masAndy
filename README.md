@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Th0masAndy
-- 👀 I’m interested in Applied Cryptography 
-- 🌱 I’m currently learning PSI & PSU & FHE
+- 👀 I’m interested in **Applied Cryptography**
+- 🌱 I’m currently learning **PSI & PSU & FHE**
 - 📫 How to reach me 1059100902@qq.com
 
 
