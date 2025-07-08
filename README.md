@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Th0masAndy
 - 👀 I’m interested in **Applied Cryptography**
-- 🌱 I’m currently learning **PSI & PSU & FHE**
-- 📫 How to reach me yangxinpeng@zju.edu.cn
+- 🌱 I’m currently learning **MPC & PSI & PSU & FHE**
+- 📫 How to reach me xinpeng004@e.ntu.edu.sg
 
 
 <!---
